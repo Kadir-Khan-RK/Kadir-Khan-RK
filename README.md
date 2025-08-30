@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Termux
-- 📫 How to reach me https://www.instagram.com/Kadir_khan_2251/
+- 📫 How to reach me https://www.instagram.com/k4d1r_kh4n/#
 - 😄 Pronouns: Kadir
 - ⚡ Fun fact: Love Gaming with Music
 
